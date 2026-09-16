@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+Online_Retail.xlsx
+.streamlit/secrets.toml
